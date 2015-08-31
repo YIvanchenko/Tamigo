@@ -1,0 +1,1 @@
+﻿insert into UserNfc (UserId, Nfc) values ('5bbac482-001e-4986-958a-6127bf5bb5f5', '84255c3e');

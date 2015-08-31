@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NFC_Test_Client</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="swipeNfcButtonResource">Check if you are in the database</string>
+    <string name="serverUrl">http://07675614.ngrok.io/api/UserDetails/%s</string>
+</resources>
